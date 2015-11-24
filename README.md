@@ -3,8 +3,8 @@ A simple monochannel Audio Balanced to UnBalanced receiver based on rocksolid NE
 Th board has a trim for change input gain.
 This is the first commit and never tested (only on simulator), actually inputs are exposed to overvoltage or DC so if you plan to use in real appliances you need to add input capacitors and/or overvoltage protection extra components.
 There's an OSH Park PCB you can order.<br>
-![schematic](https://github.com/sumotoy/Audio_Balanced_to_UnBalanced_receiver/schem.png)
+![schematic](https://github.com/sumotoy/Audio_Balanced_to_UnBalanced_receiver/blob/master/schem.png)
 
-![boardFront](https://github.com/sumotoy/Audio_Balanced_to_UnBalanced_receiver/recFront.png)
+![boardFront](https://github.com/sumotoy/Audio_Balanced_to_UnBalanced_receiver/blob/master/recFront.png)
 
-![boardBack](https://github.com/sumotoy/Audio_Balanced_to_UnBalanced_receiver/recBack.png)
+![boardBack](https://github.com/sumotoy/Audio_Balanced_to_UnBalanced_receiver/blob/master/recBack.png)
